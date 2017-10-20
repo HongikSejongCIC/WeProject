@@ -10,7 +10,10 @@
  
 ## Progress  
 We want to create a communication system by combining smart phone camera operation code and visible light communication code.  
-
+So we will try using open source including CameraFilter and CameraCoder for project execution.  
+We want to achieve our goal through multiple attempts.  
+There are many things I do not know yet so I will refer to more open source.  
+Those codes are probably CameraFilter and CameraCoder and etc.  		
 
 ## extend  
 The project will be modified to get screen data from code that manipulates smartphone cameras.  
