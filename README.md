@@ -16,3 +16,5 @@ There are many things I do not know yet so I will refer to more open source.
 Those codes are probably CameraFilter and CameraCoder and etc.  
 
 ### extend  
+The project will be modified to get screen data from code that manipulates smartphone cameras.
+We will also add code to convert the data we get from the screen into the desired form.
