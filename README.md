@@ -1,6 +1,6 @@
 # WeProject
 ### Project Name  
-
+#### Visible light communication using open source of smartphone camera
 
 
 ### Project Members
