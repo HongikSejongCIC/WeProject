@@ -1,0 +1,47 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        92b2711 com.example.opixi.urpproject2/.MainActivity
+
+Key Set Manager:
+  [com.example.opixi.urpproject2]
+      Signing KeySets: 38
+
+Packages:
+  Package [com.example.opixi.urpproject2] (6d15677):
+    userId=10192
+    pkg=Package{68442e4 com.example.opixi.urpproject2}
+    codePath=/data/app/com.example.opixi.urpproject2-2
+    resourcePath=/data/app/com.example.opixi.urpproject2-2
+    legacyNativeLibraryDir=/data/app/com.example.opixi.urpproject2-2/lib
+    primaryCpuAbi=armeabi-v7a
+    secondaryCpuAbi=null
+    nativeLibraryRootDir=/data/app/com.example.opixi.urpproject2-2/lib
+    nativeLibraryDir=/data/app/com.example.opixi.urpproject2-2/lib/arm
+    secondaryNativeLibraryDir=null
+    nativeLibraryRootRequiresIsa=true
+    dexMode=unknown
+    versionCode=1 targetSdk=26
+    versionName=1.0
+    splits=[base]
+    applicationInfo=ApplicationInfo{30a234d com.example.opixi.urpproject2}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/user/0/com.example.opixi.urpproject2
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2017-10-17 17:07:33
+    firstInstallTime=2017-09-06 21:17:39
+    lastUpdateTime=2017-10-17 17:07:41
+    signatures=PackageSignatures{ca0ae02 [cfae313]}
+    installPermissionsFixed=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.CAMERA
+    install permissions:
+      android.permission.INTERNET, granted=true, flags=0x0
+    User 0:  installed=true hidden=false stopped=false notLaunched=false enabled=0
+      gids=[3003]
+      runtime permissions:
+        android.permission.CAMERA, granted=true, flags=0x0
+mPackagesOnlyForOwnerUser:
+mComponentsOnlyForOwnerUser:
